@@ -1,4 +1,4 @@
-# 🩺 Klinik App
+# :shopping: ASU (APP Shoping UBSI)
 <center>
   <img src="assets/img/logo_ubsi.png" width="200px"><br>
 </center>
