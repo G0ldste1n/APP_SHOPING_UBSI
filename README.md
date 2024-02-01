@@ -8,7 +8,7 @@ App Shoping UBSI (ASU) adalah aplikasi penjualan berbasis Mobile dengan mengguna
 dan untuk tampilan admin terdapat 4 Menu utama yakni Admin Home Page, Upload Image, List User, List Product, 
 
 ## 💻 Pengguna Sistem
-Pengguna yang dapat memakai sistem ini adalah hanya Admin.
+Pengguna yang dapat memakai sistem ini adalah User dan Admin.
 
 ## 👨‍💻 Skenario Kebutuhan Pengguna
 ### Admin
